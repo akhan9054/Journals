@@ -1,6 +1,10 @@
 Ahmed Khan 
 5/4/17
+
 Goal: 
-Today, I plan on learning the fundamental concepts behind neural networks. I begin by learning the structure of a neural network and what each component does.
-What I’ve Accomplished: 
-I learned about the perceptron portion of a neural network and the inputs/outputs it uses to determine the importance of a single decision. I’ve discovered that each perceptron acts as a single step in grand decision-making process. Each one takes in an input with a bias, which determines how likely it is to return a 1, and carries a weight to process how important it is.
+
+Today, I plan on learning the fundamental concepts behind neural networks. I'll begin by learning the structure of a neural network and what each component does.
+
+What Iâ€™ve Accomplished: 
+
+I learned about the perceptron portion of a neural network and the inputs/outputs it uses to determine the importance of a single decision. Iâ€™ve discovered that each perceptron acts as a single step in grand decision-making process. Each one takes in an input with a bias, which determines how likely it is to return a 1, and carries a weight to process how important it is.
