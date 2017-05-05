@@ -1,0 +1,14 @@
+Ahmed Khan
+5/5/17
+
+Goal:
+
+Today, I plan on learning about how perceptrons can be used as logic operators and about sigmoid neurons.
+
+What I've Accomplished:
+
+I've learned how sigmoid neurons can function as perceptrons and serve as a more precise way to understand an input. Because a small change in the inputs for a perceptron will cause a radical change in its output, a different type of neuron is required to handle small changes. The sigmoid function allows these neurons to account for small changes in input due to it being logistic. The variable in the function can simulate a perceptron when it approaches very large postive/negative numbers. It can also output numbers between 0 and 1 to differentiate between different types of qualities. 
+
+Goal for Monday:
+
+Learn about the structure of neural networks and possibly code a neuron class.
