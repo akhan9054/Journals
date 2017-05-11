@@ -1,0 +1,11 @@
+Ahmed Khan
+
+5/11/17
+
+Goals:
+
+Learn about how a neural network learns through gradient descent and the cost function.
+
+What I've Accomplished:
+
+I've learned about the use of a cost function to determine the proper weights and biases to get inputs to their desired outputs. The functions calculates the difference between the sums of all the inputs and the desired outputs using weights and biases in the network. The purpose is to make the outputs more precise. Of course, to find such a minumum we need to calculate the minumum of the cost function. This is done through the gradient descent function which finds the global minimum of a multi-variable function (through some partial derivatives and gradients I think I understand). The multiple variables are weights and biases of the networks but these can be so abundant that a stochastic gradient descent must be used. Doing so will take a subset of variables to calulate an average value close to the gradient of the function.
