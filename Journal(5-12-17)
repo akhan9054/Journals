@@ -1,0 +1,11 @@
+Ahmed Khan
+
+5/12/17
+
+Goals:
+
+Finish up learning about stochastic gradient descent and read an article about how to build neural networks. 
+
+What I've Accomplished:
+
+I have learned that stochastic gradient descent is a more efficient alternative for gradient descent as it approximates a good enough gradient for the function with less time complexity. Thus, finding the minimum is done quicker. Regarding the building of neural networks, I've learned about forward propagation. Apparently, it's used to "initialize" weights for the network on it's first run of the forward propagation and sets adjusted weights to the neurons upon back propagation.
