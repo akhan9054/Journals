@@ -1,0 +1,11 @@
+Ahmed Khan
+
+5/15/17
+
+Goals:
+
+Finish learning about back prpagation and begin to learn about matrices and their purposes in a neural network. 
+
+What I've Accomplished:
+
+Back propagation is essentially the correction phase of a neural network. After one run of the neural network, the desired output is compared to the output of the neural network. This difference in the outputs is used to corect the weights for the next training run (calculated using the derivative of the activation function). This margin of error is multiplied to each of the hidden layer outputs and hidden layer weights to find adjusted weights to be used on the next run. As of now, I only know that matrices are used to store wights and thresholds to their respective neurons. I assume methods like back propagation will implement matrix operations to adjust weights and such.
