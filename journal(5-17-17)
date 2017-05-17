@@ -1,0 +1,11 @@
+Ahmed Khan    
+
+5/17/17
+
+What I've Accomplished:
+
+I've learned about matrix operations in depth and how the Matrix class used by Heaton works. I learned matrix addition, subtraction, multiplication, division, and dot products. Addiotnally, I read about a simple neural network, the Hopfield Network. Apparently, weight matrices are determined by the inputs you desire in a Hopfields network where every neuron is connected with every single other neuron.
+
+What I plan to do next class:
+
+Determine which neural network library to use (if any) or choose whether or not I would like to build a network from scratch.
