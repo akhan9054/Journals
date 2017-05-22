@@ -1,0 +1,11 @@
+Ahmed Khan
+
+5/22/17
+
+What I've Done:
+
+I've looked at and tried understanding Jeff Heaton's implementation of a Hopfield Neural Network. From my understanding, the core methods used in the HopfieldNetwork class are the train and present methods. The present method essentially gives the network a pattern that it will be able to recognize and multiplies that pattern with the weights of each neuron to determine the output of that neuron. As of now, the train function is still hazy.
+
+Next Class:
+
+I plan on completely understanding the train function and reading about an example to cement my knowledge.
