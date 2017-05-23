@@ -1,0 +1,11 @@
+Ahmed Khan 
+
+5/23/17
+
+What I've Done:
+
+I've learned how a Hopfield Neural Network trains itself to account for different inputs. It multiplies the pattern matrix it takes in to a transposed version of itself to create a brand new weight matrix that can recognize the given pattern. Addiotnally, I've started to read about learning techniques for neural networks. At the core of each technique is finding errors. To do so, the root mean square will be used but I have not read on that yet.
+
+What I Will Do:
+
+Learn back propagation in it's entirety next time.
