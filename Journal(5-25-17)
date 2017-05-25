@@ -1,0 +1,7 @@
+Ahmed Khan
+
+5/25/17
+
+What I've Done:
+
+I've mostly looked at other implementations of neural networks in various languages to see where I can start when building my version. I've also looked at the perceptron learning rule which is a simple correcting method for a neural network. It simply takes the difference between expected output and the actual one and multiplies it by the learning rate and input to create a weight change. 
